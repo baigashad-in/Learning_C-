@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1.csproj", "{A042A428-07A4-4B05-A127-BB6E7872A00E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "..\ConsoleApp2\ConsoleApp2.csproj", "{7D893C18-969A-4FCF-9FDB-41A9B5FE67FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp3", "..\ConsoleApp3\ConsoleApp3.csproj", "{B2C4FFC9-24F8-4920-AD87-FD0F2B7FDA0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A042A428-07A4-4B05-A127-BB6E7872A00E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A042A428-07A4-4B05-A127-BB6E7872A00E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A042A428-07A4-4B05-A127-BB6E7872A00E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A042A428-07A4-4B05-A127-BB6E7872A00E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D893C18-969A-4FCF-9FDB-41A9B5FE67FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D893C18-969A-4FCF-9FDB-41A9B5FE67FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D893C18-969A-4FCF-9FDB-41A9B5FE67FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D893C18-969A-4FCF-9FDB-41A9B5FE67FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2C4FFC9-24F8-4920-AD87-FD0F2B7FDA0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2C4FFC9-24F8-4920-AD87-FD0F2B7FDA0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2C4FFC9-24F8-4920-AD87-FD0F2B7FDA0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2C4FFC9-24F8-4920-AD87-FD0F2B7FDA0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75510F10-3F21-433B-B81F-30EB4BC4CC6A}
+	EndGlobalSection
+EndGlobal
